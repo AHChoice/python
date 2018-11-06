@@ -15,8 +15,6 @@
 .vs
 Debug
 Release
-../Debug
-../Release
 __pycache__
 
 
